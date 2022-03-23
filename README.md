@@ -6,6 +6,6 @@ I have experience in Python, JavaScript, HTML, CSS and a few others!
 Some of my works include:
 - [TheCodeBlueApp](https://thecodeblueapp.com) - Release 1.1
 - [SneakFinder](https://sneakfinder.jacebapps.com) - Beta 1.3
-- [Discharge Planning Board](https://dc.jacebapps.com) - Release 1.2
+- [Discharge Planning Board](https://dc.jacebapps.com) - Release 1.3
 
 You can visit my website at [jacebapps.com](https://jacebapps.com)
