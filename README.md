@@ -9,3 +9,5 @@ Some of my works include:
 - [Discharge Planning Board](https://dc.jacebapps.com) - Release 2.0
 
 You can visit my website at [jacebapps.com](https://jacebapps.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breeze0505)](https://github.com/anuraghazra/github-readme-stats)
